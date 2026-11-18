@@ -2,6 +2,8 @@ import math
 import pygame
 import random
 from itertools import combinations
+import matplotlib.pyplot as plt
+import numpy as np
 pygame.init()
 
 screen_width = 1600
